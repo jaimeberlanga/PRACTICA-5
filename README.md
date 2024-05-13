@@ -16,7 +16,7 @@ mvn clean
 ### Compilar
 
 ```console
-make compile
+mvn compile
 ```
 
 ### Javadoc
