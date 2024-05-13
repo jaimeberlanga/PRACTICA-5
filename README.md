@@ -1,4 +1,4 @@
-# BÚSQUEDA DE UN CAMINO EN UN GRAFO
+# BÚSQUEDA DEl CAMINO MÁS CORTO ENTRE DOS VÉRTICES EN UN GRAFO
 
 ## Breve descripción de la aplicación
 
