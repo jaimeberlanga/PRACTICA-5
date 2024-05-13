@@ -1,37 +1,37 @@
-#BÚSQUEDA DE UN CAMINO EN UN GRAFO
+# BÚSQUEDA DE UN CAMINO EN UN GRAFO
 
-##Breve descripción de la aplicación
+## Breve descripción de la aplicación
 
-*Resumen: Este proyecto implementa una estructura de datos de grafo en Java, con funciones para agregar vértices, arcos, obtener vértices adyacentes, comprobar la existencia de un vértice y encontrar un camino en dos vértices
+* Resumen: Este proyecto implementa una estructura de datos de grafo en Java, con funciones para agregar vértices, arcos, obtener vértices adyacentes, comprobar la existencia de un vértice y encontrar un camino en dos vértices
 
-*Versión: 1.0.
+* Versión: 1.0.
 
-##USO DEL PROGRAMA
-###Limpiar
+## USO DEL PROGRAMA
+### Limpiar
 
 ```console
 mvn clean
 ```
 
-###Compilar
+### Compilar
 
 ```console
 make compile
 ```
 
-Javadoc
+### Javadoc
 
 ```console
 mvn javadoc: javadoc
 ```
 
-Ejecutar Programa
+### Ejecutar Programa
 
 ```console
 mvn test
 ```
 
-##Estructura del código
+## Estructura del código
 
 Tal y como muestra la siguiente figura
 
